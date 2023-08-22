@@ -1,0 +1,1 @@
+{"h1_min": 0, "s1_min": 0, "v1_min": 0, "h1_max": 179, "s1_max": 255, "v1_max": 255, "h2_min": 0, "s2_min": 0, "v2_min": 0, "h2_max": 179, "s2_max": 255, "v2_max": 255}
